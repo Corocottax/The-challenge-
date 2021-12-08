@@ -1,0 +1,14 @@
+@import "./bloques/header";
+@import "./bloques/body";
+@import "./bloques/footer";
+
+@import "./utilidades/colors";
+@import "./utilidades/fonts";
+@import "./utilidades/responsive";
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
